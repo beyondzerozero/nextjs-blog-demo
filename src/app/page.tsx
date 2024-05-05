@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Next.js 14 초보자 실무입문",
     description: "Next.js로 블로그 만들기 실무예제입니다.",
-    url: "<사으트 URL>",
+    url: "http://nextjs-blog-demo-pzd3wa7jf-beyond-zero.vercel.app",
     siteName: "SSG 블로그",
     images: [
       {
         width: "1200",
         height: "675",
-        url: "<사이트URL>/ogp-home.png",
+        url: "http://nextjs-blog-demo-pzd3wa7jf-beyond-zero.vercel.app/ogp-home.png",
       },
     ],
     locale: "kr",
